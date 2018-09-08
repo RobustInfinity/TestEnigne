@@ -1,5 +1,8 @@
 # Ignore folder node_modules
 node_modules
 
-# Igonre folder bin
+# Ignore folder bin
 bin
+
+#Ignore folder log
+log

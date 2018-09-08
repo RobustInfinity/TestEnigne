@@ -1,6 +1,8 @@
 var express = require('express');
 var router = express.Router();
 var logger = require('../model/logger')
+var signUp = require('../model/signup');
+var dbOperation = require('../config/dboperations')
 
 
 /* GET users listing. */
@@ -18,12 +20,10 @@ router.post('/login',(request , response)=>{
 
 router.post('/signup',(request , response)=>{
   logger.debug('router /users/signup')
-  var {name, email, mobile, password} = request.body;
-  
-  
- 
 
-  response.send({email, name, password, mobile})
+  var {name, email, mobile, password} = request.body;
+  signUp({name, email, mobile, password}, request, response);
+   
 })
 
 router.post('/forgotpassword',(request , response)=>{
