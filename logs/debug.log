@@ -1,1 +1,61 @@
 
+[2018-09-08T15:03:32.311] [DEBUG] debug - router /users/login
+[2018-09-08T15:03:32.316] [DEBUG] debug - login
+[2018-09-08T15:03:32.332] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T15:04:31.274] [DEBUG] debug - router /users/login
+[2018-09-08T15:04:31.275] [DEBUG] debug - login
+[2018-09-08T15:04:31.275] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T15:08:44.223] [DEBUG] debug - router /users/login
+[2018-09-08T15:08:44.227] [DEBUG] debug - login
+[2018-09-08T15:08:44.257] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T15:11:41.584] [DEBUG] debug - router /users/login
+[2018-09-08T15:11:41.589] [DEBUG] debug - login
+[2018-09-08T15:11:41.603] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T15:12:47.188] [DEBUG] debug - router /users/login
+[2018-09-08T15:12:47.193] [DEBUG] debug - login
+[2018-09-08T15:12:47.228] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T15:16:31.808] [DEBUG] debug - router /users/login
+[2018-09-08T15:16:31.812] [DEBUG] debug - login
+[2018-09-08T15:16:31.834] [DEBUG] debug - encrypt signPayload()
+[2018-09-08T15:18:38.024] [DEBUG] debug - router /users/login
+[2018-09-08T15:18:38.031] [DEBUG] debug - login
+[2018-09-08T15:18:38.083] [DEBUG] debug - encrypt signPayload()
+[2018-09-08T15:51:34.278] [DEBUG] debug - router /users/login
+[2018-09-08T15:51:34.283] [DEBUG] debug - login
+[2018-09-08T15:51:34.305] [DEBUG] debug - dboperation login()
+[2018-09-08T15:51:34.313] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T15:52:08.034] [DEBUG] debug - router /users/login
+[2018-09-08T15:52:08.037] [DEBUG] debug - login
+[2018-09-08T15:52:08.059] [DEBUG] debug - dboperation login()
+[2018-09-08T15:52:08.069] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T15:52:41.444] [DEBUG] debug - router /users/login
+[2018-09-08T15:52:41.446] [DEBUG] debug - login
+[2018-09-08T15:52:41.464] [DEBUG] debug - dboperation login()
+[2018-09-08T15:52:41.475] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T15:53:34.678] [DEBUG] debug - router /users/login
+[2018-09-08T15:53:34.682] [DEBUG] debug - login
+[2018-09-08T15:53:34.700] [DEBUG] debug - dboperation login()
+[2018-09-08T15:53:34.708] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T15:54:05.186] [DEBUG] debug - router /users/login
+[2018-09-08T15:54:05.190] [DEBUG] debug - login
+[2018-09-08T15:54:05.219] [DEBUG] debug - dboperation login()
+[2018-09-08T15:54:05.268] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T15:56:31.928] [DEBUG] debug - router /users/login
+[2018-09-08T15:56:31.931] [DEBUG] debug - login
+[2018-09-08T15:56:31.951] [DEBUG] debug - dboperation login()
+[2018-09-08T15:56:31.981] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T16:03:31.172] [DEBUG] debug - router /users/login
+[2018-09-08T16:03:31.175] [DEBUG] debug - login
+[2018-09-08T16:03:31.191] [DEBUG] debug - dboperation login()
+[2018-09-08T16:03:31.221] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T16:03:31.223] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T16:05:51.965] [DEBUG] debug - router /users/login
+[2018-09-08T16:05:51.969] [DEBUG] debug - login
+[2018-09-08T16:05:51.983] [DEBUG] debug - dboperation login()
+[2018-09-08T16:05:51.994] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T16:05:51.995] [DEBUG] debug - encrypt verifyPayload()
+[2018-09-08T16:06:36.068] [DEBUG] debug - router /users/login
+[2018-09-08T16:06:36.068] [DEBUG] debug - login
+[2018-09-08T16:06:36.097] [DEBUG] debug - dboperation login()
+[2018-09-08T16:06:36.101] [DEBUG] debug - dboperation login() User.findOne()
+[2018-09-08T16:06:36.103] [DEBUG] debug - encrypt verifyPayload()
